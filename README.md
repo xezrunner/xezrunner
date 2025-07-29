@@ -12,29 +12,30 @@ I am a software enthusiast, with interests in:
 <summary><b>Personal skillset, software development and work environment details</b> <i>(click to open/close)</i></summary>
 
 ### Languages and frameworks I work in (ordered by frequency):
-- **C# (Unity and WPF/WinUI (XAML))**
 - **Swift/SwiftUI**
-- C/C++
-- _Java_
+- **C# (Unity and WPF/WinUI (XAML))**
+- C/C++/Objective-C
+- Java
 
-### Software I use for development (ordered by frequency):
+### Software I use for development:
 
 - Source control: Git
 - Code editors:
   - Visual Studio & Visual Studio Code
   - Xcode
-  - _JetBrains IntelliJ IDEA_
+  - JetBrains IntelliJ IDEA
 - Other software:
   - Unity Engine (+ _Blender_)
-  - Adobe After Effects (+ _LottieLab_)
+  - Adobe After Effects
   - Figma
+  - LottieLab
 
 </details>
 
 ## My work
 
 <details open>
-<summary><b>Small<i>er</i> projects</b></summary>
+<summary><b>Smaller projects</b></summary>
 
 ### [Git `nocheckin` pre-commit hook](https://gist.github.com/xezrunner/e6dbafcc21fcbc976c93bdee0f371a08)
 
