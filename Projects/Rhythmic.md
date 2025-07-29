@@ -1,4 +1,5 @@
-# Rhythmic
+# [Rhythmic](https://github.com/xezrunner/Rhythmic)
+
 A basic reimplementation / demo covering the gameplay flow and mechanics of Amplitude (2016) by Harmonix in the Unity Engine
 
 Amplitude by Harmonix is a Playstation 3/4-exclusive music-driven rhythm game designed for game controllers.
