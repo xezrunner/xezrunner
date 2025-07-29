@@ -35,6 +35,17 @@ I am a software enthusiast, with interests in:
 ## My work
 
 <details open>
+<summary><b>Larger projects</b></summary>
+
+### [Rhythmic](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
+
+A work-in-progress compatible reimplementation of Amplitude in the Unity game engine
+
+[![](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-root-hero.png?raw=true)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
+
+_More coming soon..._
+
+<details open>
 <summary><b>Smaller projects</b></summary>
 
 ### [Git `nocheckin` pre-commit hook](https://gist.github.com/xezrunner/e6dbafcc21fcbc976c93bdee0f371a08)
@@ -51,14 +62,3 @@ A pre-commit hook for Git that rejects commiting staged files containing a speci
 </a>
 
 </details>
-
-<details open>
-<summary><b>Larger projects</b></summary>
-
-### [Rhythmic](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
-
-A work-in-progress compatible reimplementation of Amplitude in the Unity game engine
-
-[![](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-root-hero.png?raw=true)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
-
-_More coming soon..._
