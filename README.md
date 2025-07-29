@@ -40,16 +40,24 @@ I am a software enthusiast, with interests in:
 
 A pre-commit hook for Git that rejects commiting staged files containing a special word (`nocheckin`)
 
+<a href="https://gist.github.com/xezrunner/e6dbafcc21fcbc976c93bdee0f371a08">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9a6bb784-decf-489b-ba79-ceca5955cd13">
   <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/user-attachments/assets/6aef50d9-90ff-4de9-b97a-ab0f4551977b">
   <img alt="Screenshot showcasing the nocheckin pre-commit hook in action with the git CLI."
        src="https://github.com/user-attachments/assets/9a6bb784-decf-489b-ba79-ceca5955cd13">
 </picture>
+</a>
 
 </details>
 
 <details open>
 <summary><b>Larger projects</b></summary>
 
-_Coming soon..._
+### [Rhythmic](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
+
+A work-in-progress compatible reimplementation of Amplitude in the Unity game engine
+
+[![](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-root-hero.png?raw=true)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
+
+_More coming soon..._
