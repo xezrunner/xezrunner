@@ -45,6 +45,8 @@ A work-in-progress compatible reimplementation of Amplitude in the Unity game en
 
 _More coming soon..._
 
+</details>
+
 <details open>
 <summary><b>Smaller projects</b></summary>
 
