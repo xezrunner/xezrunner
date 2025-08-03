@@ -1,12 +1,42 @@
-# [Rhythmic](https://github.com/xezrunner/Rhythmic)
+# Rhythmic
 
-A basic reimplementation / demo covering the gameplay flow and mechanics of Amplitude (2016) by Harmonix in the Unity Engine
+A technical demo re-creating the gameplay flow and mechanics of Amplitude (2016) by Harmonix in the Unity game engine.
 
 Amplitude by Harmonix is a Playstation 3/4-exclusive music-driven rhythm game designed for game controllers.
 
-The game plays on a highway or tunnel of tracks, with each track being a particular instrument within the song. The goal of the game is to build up and complete the song by hitting notes at the right time, pressing the top buttons on the controller (L1, R1, R2) and by switching tracks using the D-pad or analog sticks.
+<div style="display: flex; gap: 5px; align-items: center; margin-bottom: 12px;">
+  <!-- YouTube link -->
+  <!-- TODO: record demo video
+  <a href="https://youtu.be/PLACEHOLDER">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/YT-light.png?raw=true">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/YT-dark.png?raw=true">
+    <img alt="YouTube link"
+         src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/YT-light.png?raw=true"
+         style="height: 52px;">
+  </picture>
+  </a>
+  -->
+
+  <!-- GitHub link -->
+  <a href="https://github.com/xezrunner/Rhythmic">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-light.png?raw=true">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-dark.png?raw=true">
+    <img alt="GitHub link"
+         src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-light.png?raw=true"
+         style="height: 52px;">
+  </picture>
+  </a>
+</div>
+
+### About the game
+
+Amplitude plays on a highway or tunnel of tracks, with each track being a particular instrument within the song. The goal of the game is to build up and complete the song by hitting notes at the right time, pressing the top buttons on the controller (L1, R1, R2) and by switching tracks using the D-pad or analog sticks.
 
 While Rhythmic is compatible with songs from Amplitude, no proprietary assets from Amplitude ship with the project. These files have to be provided and converted by the user using their legally owned copy of Amplitude.
+
+As it is a technical demo, the project is not intended to launch on storefronts, nor will the user experience completely substitute that of the original title's.
 
 ### Development timeline
 **2020 Q1:** Project started  
@@ -45,8 +75,6 @@ Newest version of the console queries and registers commands dynamically during 
 
 Just like with the debug menu, the console also has support for recognizing basic types, like enums and numbers.
 
-![Rhythmic's original debug console](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-debugconsole-pre.png?raw=true)
+![Rhythmic's in-development console](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-new-debugconsole.png?raw=true)
 
 ![XZShared debug console command example](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/XZShared-debugconsole-command-example.png?raw=true)
-
-![Rhythmic's in-development console](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-new-debugconsole.png?raw=true)
