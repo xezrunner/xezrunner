@@ -1,8 +1,8 @@
 # Rhythmic
 
-A technical demo re-creating the gameplay flow and mechanics of Amplitude (2016) by Harmonix in the Unity game engine.
+Rhythmic is a backward-compatible technical demo re-creating the gameplay flow and mechanics of Amplitude (2016) within the Unity game engine.
 
-Amplitude by Harmonix is a Playstation 3/4-exclusive music-driven rhythm game designed for game controllers.
+Amplitude is a Playstation 3/4-exclusive music-driven rhythm game developed by Harmonix Music Systems.
 
 <div style="display: flex; gap: 5px; align-items: center; margin-bottom: 12px;">
   <!-- YouTube link -->
