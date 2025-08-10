@@ -2,29 +2,29 @@ I am a software enthusiast, with interests in:
 
 - Developing parts of projects involving:
   - user interface & experience (visual layout and design, smooth animations and interactions)
-  - game/game engine systems (debug features, tooling)
-  - game mechanics (systems, VFX, polish/tweaks)
+  - game engine systems (debug features, UIs, tooling)
+  - game systems, game mechanics, VFX
 - General software optimization
 - Reverse engineering
 - Visual effects and motion graphics
 
 <details>
-<summary><b>Personal skillset, software development and work environment details</b> <i>(click to open/close)</i></summary>
+<summary><b>Personal skillset and work environment details</b> <i>(click to open/close)</i></summary>
 
-### Languages and frameworks I work in (ordered by frequency):
+### Languages and frameworks (by frequency):
 - **Swift/SwiftUI**
-- **C# (Unity and WPF/WinUI (XAML))**
+- **C# (Unity, XAML: WPF/WinUI)**
 - C/C++/Objective-C
 - Java
 
-### Software I use for development:
+### Software:
 
 - Source control: Git
 - Code editors:
   - Visual Studio & Visual Studio Code
   - Xcode
   - JetBrains IntelliJ IDEA
-- Other software:
+- Creative tools:
   - Unity Engine (+ _Blender_)
   - Adobe After Effects
   - Figma
@@ -35,7 +35,7 @@ I am a software enthusiast, with interests in:
 ## My work
 
 <details open>
-<summary><b>Larger projects</b></summary>
+<summary><b>Highlights</b></summary>
 
 ### [Rhythmic](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
 
@@ -43,7 +43,7 @@ A work-in-progress compatible reimplementation of Amplitude in the Unity game en
 
 [![](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-root-hero.png?raw=true)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
 
-_More coming soon..._
+[**Browse more work-in-progress, technical demo and archived projects ->**](https://github.com/xezrunner/xezrunner/tree/main/Projects)
 
 </details>
 
