@@ -52,14 +52,14 @@ A work-in-progress compatible reimplementation of Amplitude in the Unity game en
 
 ### [Git `nocheckin` pre-commit hook](https://gist.github.com/xezrunner/e6dbafcc21fcbc976c93bdee0f371a08)
 
-A pre-commit hook for Git that rejects commiting staged files containing a special word (`nocheckin`)
+A pre-commit hook for Git that rejects commiting staged files containing a special keyword (`nocheckin`)
 
 <a href="https://gist.github.com/xezrunner/e6dbafcc21fcbc976c93bdee0f371a08">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9a6bb784-decf-489b-ba79-ceca5955cd13">
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/user-attachments/assets/6aef50d9-90ff-4de9-b97a-ab0f4551977b">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/nocheckin-light.png">
+  <source media="(prefers-color-scheme: dark)"  srcset="Assets/nocheckin-dark.png">
   <img alt="Screenshot showcasing the nocheckin pre-commit hook in action with the git CLI."
-       src="https://github.com/user-attachments/assets/9a6bb784-decf-489b-ba79-ceca5955cd13">
+       src="Assets/nocheckin-light.png">
 </picture>
 </a>
 
