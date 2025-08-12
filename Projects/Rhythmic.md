@@ -9,11 +9,11 @@ Rhythmic is a backward-compatible technical demo re-creating the gameplay flow a
   <!-- TODO: record demo video
   <a href="https://youtu.be/PLACEHOLDER">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/YT-light.png?raw=true">
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/YT-dark.png?raw=true">
-    <img alt="YouTube link"
-         src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/YT-light.png?raw=true"
-         style="height: 52px;">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/YT-light.png">
+  <source media="(prefers-color-scheme: dark)"  srcset="Assets/YT-dark.png">
+  <img alt="YouTube link"
+     src="Assets/YT-light.png"
+     style="height: 52px;">
   </picture>
   </a>
   -->
@@ -21,11 +21,11 @@ Rhythmic is a backward-compatible technical demo re-creating the gameplay flow a
   <!-- GitHub link -->
   <a href="https://github.com/xezrunner/Rhythmic">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-light.png?raw=true">
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-dark.png?raw=true">
-    <img alt="GitHub link"
-         src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-light.png?raw=true"
-         style="height: 52px;">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/GitHub-light.png">
+  <source media="(prefers-color-scheme: dark)"  srcset="Assets/GitHub-dark.png">
+  <img alt="GitHub link"
+     src="Assets/GitHub-light.png"
+     style="height: 52px;">
   </picture>
   </a>
 </div>
@@ -55,9 +55,9 @@ Rhythmic has the ability to use the original Amplitude game's metadata files, al
 
 A custom song format and editor is planned, but was not finished for the playable demo.
 
-![Rhythmic in fullscreen](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-fullscreen.png?raw=true)
+![Rhythmic in fullscreen](Assets/Rhythmic-fullscreen.png)
 
-![Rhythmic in editor](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-in-Unity-Editor.png?raw=true)
+![Rhythmic in editor](Assets/Rhythmic-in-Unity-Editor.png)
 
 ### Systems
 
@@ -69,7 +69,7 @@ Debug menu pages and menu item entries can be created and registered with a few 
 
 In later projects, functions that build menus can be marked with an attribute, which get dynamically registered automatically on startup, making them easier to create and use.
 
-![Rhythmic's debug menu and stats display](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-debugmenu-and-stats.png?raw=true)
+![Rhythmic's debug menu and stats display](Assets/Rhythmic-debugmenu-and-stats.png)
 
 ##### Debug console
 
@@ -79,6 +79,6 @@ The newest version of the debug console queries and registers commands dynamical
 
 Just like the debug menu, the console also has support for recognizing basic types for manipulation, like enums and numbers.
 
-![Rhythmic's in-development console](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-new-debugconsole.png?raw=true)
+![Rhythmic's in-development console](Assets/Rhythmic-new-debugconsole.png)
 
-![XZShared debug console command example](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/XZShared-debugconsole-command-example.png?raw=true)
+![XZShared debug console command example](Assets/XZShared-debugconsole-command-example.png)

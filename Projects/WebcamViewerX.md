@@ -6,10 +6,10 @@ A lightweight image webcam viewer prototype application, used for developing [Xe
 	<!-- GitHub link -->
 	<a href="https://github.com/xezrunner/WebcamViewerX">
 	<picture>
-		<source media="(prefers-color-scheme: light)" srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-light.png?raw=true">
-		<source media="(prefers-color-scheme: dark)"  srcset="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-dark.png?raw=true">
+		<source media="(prefers-color-scheme: light)" srcset="Assets/GitHub-light.png">
+		<source media="(prefers-color-scheme: dark)"  srcset="Assets/GitHub-dark.png">
 		<img alt="GitHub link"
-				 src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/GitHub-light.png?raw=true"
+				 src="Assets/GitHub-light.png"
 				 style="height: 52px;">
 	</picture>
 	</a>
@@ -31,22 +31,22 @@ It includes various controls, including buttons of many kinds, toggles, radio bu
 
 <!-- Row 1: Main (Light | Dark) -->
 <div style="display: flex; gap: 10px; align-items: flex-start; margin-bottom: 10px;">
-  <img src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/WebcamViewerX-main-light.png?raw=true" 
-	  alt="WebcamViewerX main (Light)" 
-	  style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
-  <img src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/WebcamViewerX-main-dark.png?raw=true" 
-	  alt="WebcamViewerX main (Dark)" 
-	  style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
+	<img src="Assets/WebcamViewerX-main-light.png" 
+	alt="WebcamViewerX main (Light)" 
+	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
+	<img src="Assets/WebcamViewerX-main-dark.png" 
+	alt="WebcamViewerX main (Dark)" 
+	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
   
 </div>
 
 <!-- Row 2: Settings (Light | Dark) -->
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/WebcamViewerX-settings-light.png?raw=true" 
-	  alt="WebcamViewerX settings (Light)" 
-	  style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
-  <img src="https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/WebcamViewerX-settings-dark.png?raw=true" 
-	  alt="WebcamViewerX settings (Dark)" 
-	  style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
+	<img src="Assets/WebcamViewerX-settings-light.png" 
+	alt="WebcamViewerX settings (Light)" 
+	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
+	<img src="Assets/WebcamViewerX-settings-dark.png" 
+	alt="WebcamViewerX settings (Dark)" 
+	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
 </div>
 

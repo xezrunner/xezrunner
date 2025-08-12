@@ -41,7 +41,7 @@ I am a software enthusiast, with interests in:
 
 A work-in-progress compatible reimplementation of Amplitude in the Unity game engine
 
-[![](https://github.com/xezrunner/xezrunner/blob/main/Projects/Assets/Rhythmic-root-hero.png?raw=true)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
+[![](Projects/Assets/Rhythmic-root-hero.png)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
 
 [**Browse more work-in-progress, technical demo and archived projects ->**](https://github.com/xezrunner/xezrunner/tree/main/Projects)
 
