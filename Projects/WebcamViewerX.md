@@ -30,23 +30,14 @@ It includes various controls, including buttons of many kinds, toggles, radio bu
 ### Screenshots
 
 <!-- Row 1: Main (Light | Dark) -->
-<div style="display: flex; gap: 10px; align-items: flex-start; margin-bottom: 10px;">
-	<img src="Assets/WebcamViewerX-main-light.png" 
-	alt="WebcamViewerX main (Light)" 
-	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
-	<img src="Assets/WebcamViewerX-main-dark.png" 
-	alt="WebcamViewerX main (Dark)" 
-	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
-  
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+	<img src="Assets/WebcamViewerX-main-light.png" alt="WebcamViewerX main (Light)" style="width: 48%; border-radius: 3px;">
+	<img src="Assets/WebcamViewerX-main-dark.png" alt="WebcamViewerX main (Dark)" style="width: 48%; border-radius: 3px;">
 </div>
 
 <!-- Row 2: Settings (Light | Dark) -->
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-	<img src="Assets/WebcamViewerX-settings-light.png" 
-	alt="WebcamViewerX settings (Light)" 
-	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
-	<img src="Assets/WebcamViewerX-settings-dark.png" 
-	alt="WebcamViewerX settings (Dark)" 
-	style="flex: 1; min-width: 280px; height: auto; border-radius: 3px;">
+<div style="display: flex; gap: 10px;">
+	<img src="Assets/WebcamViewerX-settings-light.png" alt="WebcamViewerX settings (Light)" style="width: 48%; border-radius: 3px;">
+	<img src="Assets/WebcamViewerX-settings-dark.png" alt="WebcamViewerX settings (Dark)" style="width: 48%; border-radius: 3px;">
 </div>
 
