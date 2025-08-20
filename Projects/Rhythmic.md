@@ -6,8 +6,7 @@ Rhythmic is a backward-compatible technical demo re-creating the gameplay flow a
 
 <div style="display: flex; gap: 5px; align-items: center; margin-bottom: 12px;">
   <!-- YouTube link -->
-  <!-- TODO: record demo video
-  <a href="https://youtu.be/PLACEHOLDER">
+  <a href="https://youtu.be/DWbndWpg2g4">
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="Assets/YT-light.png">
   <source media="(prefers-color-scheme: dark)"  srcset="Assets/YT-dark.png">
@@ -16,7 +15,6 @@ Rhythmic is a backward-compatible technical demo re-creating the gameplay flow a
      style="height: 52px;">
   </picture>
   </a>
-  -->
 
   <!-- GitHub link -->
   <a href="https://github.com/xezrunner/Rhythmic">
