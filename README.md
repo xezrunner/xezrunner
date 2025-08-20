@@ -2,14 +2,15 @@ I am a software developer and enthusiast, with interests in:
 
 - Developing parts of projects involving:
   - user interface & experience (visual layout and design, smooth animations and interactions)
-  - game engine systems (debug features, UIs, tooling)
-  - game systems, game mechanics, VFX
+  - game systems & mechanics, VFX
+  - debug features, tooling
+- Experimental tools
 - General software optimization
 - Reverse engineering
 - Visual effects and motion graphics
 
 <details>
-<summary><b>Personal skillset and work environment details</b> <i>(click to open/close)</i></summary>
+<summary><b>Programmikg skills and work environments</b> <i>(click to open/close)</i></summary>
 
 ### Languages and frameworks (by frequency):
 - **Swift/SwiftUI**
