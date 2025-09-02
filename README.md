@@ -1,7 +1,7 @@
-I am a software developer and enthusiast, with interests in:
+Software developer and enthusiast, with interests in:
 
 - Developing parts of projects involving:
-  - user interface & experience (visual layout and design, smooth animations and interactions)
+  - user interface & experience (visual layout and design, smooth animations & interactions)
   - game systems & mechanics, VFX
   - debug features, tooling
 - Experimental tools
