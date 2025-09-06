@@ -57,9 +57,9 @@ A tool that allows querying system functions and controlling feature flags on Ap
 </picture>
 </a>
 
-[**Browse more work-in-progress, technical-demo and archived projects ->**](https://github.com/xezrunner/xezrunner/tree/main/Projects)
-
 </details>
+
+### [-> <u>Browse all projects...</u>](https://github.com/xezrunner/xezrunner/tree/main/Projects)
 
 
 <details open>
