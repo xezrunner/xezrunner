@@ -10,7 +10,7 @@ Software developer and enthusiast, with interests in:
 - Visual effects and motion graphics
 
 <details>
-<summary><b>Programmikg skills and work environments</b> <i>(click to open/close)</i></summary>
+<summary><b>What I work in/with:</b> <i>(click to open/close)</i></summary>
 
 ### Languages and frameworks (by frequency):
 - **Swift/SwiftUI**
