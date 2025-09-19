@@ -10,9 +10,9 @@ Software developer and enthusiast, with interests in:
 - Visual effects and motion graphics
 
 <details>
-<summary><b>What I work in/with:</b> <i>(click to open/close)</i></summary>
+<summary><b>What I work in/with:</b><!--<i>(click to open/close)</i>--></summary>
 
-### Languages and frameworks (by frequency):
+### Languages and frameworks:
 - **Swift/SwiftUI**
 - **C# (Unity, XAML: WPF/WinUI)**
 - C/C++/Objective-C
@@ -20,11 +20,6 @@ Software developer and enthusiast, with interests in:
 
 ### Software:
 
-- Source control: Git
-- Code editors:
-  - Visual Studio & Visual Studio Code
-  - Xcode
-  - JetBrains IntelliJ IDEA
 - Creative tools:
   - Unity Engine (+ _Blender_)
   - Adobe After Effects
