@@ -44,6 +44,20 @@ A work-in-progress compatible reimplementation of Amplitude in the Unity game en
 
 [![](Assets/Rhythmic-hero.png)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
 
+### [XeZrunner.UI](https://github.com/xezrunner/xezrunner/blob/main/Projects/WebcamViewerX.md)
+
+A custom UI library for WPF, replicating and combining Microsoft's Fluent Design and Google's Material Design.
+
+<a href="https://github.com/xezrunner/xezrunner/blob/main/Projects/WebcamViewerX.md">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="Assets/XesignUI-hero-light.png">
+  <source media="(prefers-color-scheme: dark)"  srcset="Assets/XesignUI-hero-dark.png">
+  <img alt="Screenshot showcasing XeZrunner.UI as used in WebcamViewerX."
+       src="Assets/XesignUI-hero-light.png">
+</picture>
+</a>
+
+<!-- 
 ### [InternalInspect](https://github.com/xezrunner/InternalInspect)
 
 A tool that allows querying system functions and controlling feature flags on Apple platforms
@@ -56,6 +70,7 @@ A tool that allows querying system functions and controlling feature flags on Ap
        src="Assets/InternalInspect-hero-light.png">
 </picture>
 </a>
+-->
 
 ### Coming soon...
 
