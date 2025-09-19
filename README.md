@@ -57,6 +57,17 @@ A tool that allows querying system functions and controlling feature flags on Ap
 </picture>
 </a>
 
+### Coming soon...
+
+<a href="Assets/SWmac-hero-wip.png">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="Assets/SWmac-hero-wip-2.png">
+  <source media="(prefers-color-scheme: dark)"  srcset="Assets/SWmac-hero-wip.png">
+  <img alt="Screenshot showcasing an unannounced project."
+       src="Assets/SWmac-hero-wip.png">
+</picture>
+</a>
+
 </details>
 
 ### [-> <u>Browse all projects...</u>](https://github.com/xezrunner/xezrunner/tree/main/Projects)
@@ -75,23 +86,6 @@ A pre-commit hook for Git that rejects commiting staged files containing a speci
   <source media="(prefers-color-scheme: dark)"  srcset="Assets/nocheckin-hero-dark.png">
   <img alt="Screenshot showcasing the nocheckin pre-commit hook in action with the git CLI."
        src="Assets/nocheckin-hero-light.png">
-</picture>
-</a>
-
-</details>
-
-
-<details open>
-<summary><b><i>Coming soon...</i></b></summary>
-
-### ---
-
-<a href="">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="Assets/SWmac-hero-wip-2.png">
-  <source media="(prefers-color-scheme: dark)"  srcset="Assets/SWmac-hero-wip.png">
-  <img alt="Screenshot showcasing an unannounced project."
-       src="Assets/SWmac-hero-wip.png">
 </picture>
 </a>
 
