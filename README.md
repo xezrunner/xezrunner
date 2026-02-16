@@ -1,44 +1,23 @@
 Software developer and enthusiast, with interests in:
 
-- Developing parts of projects involving:
-  - user interface & experience (visual layout and design, smooth animations & interactions)
-  - game systems & mechanics, VFX
-  - debug features, tooling
-- Experimental tools
+- User interface & experience (visual layout and design, smooth animations & interactions)
+- Debug features & tooling
+- Game and game engine systems
 - General software optimization
 - Reverse engineering
 - Visual effects and motion graphics
 
-<details>
-<summary><b>What I work in/with:</b><!--<i>(click to open/close)</i>--></summary>
+I primarily work in C# (XAML, Unity, S&box) and Swift & SwiftUI.
 
-### Languages and frameworks:
-- **Swift/SwiftUI**
-- **C# (Unity, XAML: WPF/WinUI)**
-- C/C++/Objective-C
-- Java
-
-### Software:
-
-- Creative tools:
-  - Unity Engine (+ _Blender_)
-  - Adobe After Effects
-  - Figma
-  - LottieLab
-
-</details>
-
-## My work
-
-<details open>
-<summary><b>Highlights</b></summary>
+# Projects
 
 ### [Rhythmic](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
 
-A work-in-progress compatible reimplementation of Amplitude in the Unity game engine
+A work-in-progress re-creation of Amplitude 2016 by Harmonix in the Unity game engine
 
 [![](Assets/Rhythmic-hero.png)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
 
+<!-- 
 ### [XeZrunner.UI](https://github.com/xezrunner/xezrunner/blob/main/Projects/WebcamViewerX.md)
 
 A custom UI library for WPF, replicating and combining Microsoft's Fluent Design and Google's Material Design.
@@ -51,6 +30,7 @@ A custom UI library for WPF, replicating and combining Microsoft's Fluent Design
        src="Assets/XesignUI-hero-light.png">
 </picture>
 </a>
+-->
 
 <!-- 
 ### [InternalInspect](https://github.com/xezrunner/InternalInspect)
@@ -67,7 +47,7 @@ A tool that allows querying system functions and controlling feature flags on Ap
 </a>
 -->
 
-### Coming soon...
+### _\<unannounced\>_
 
 <a href="Assets/SWmac-hero-wip.png">
 <picture>
@@ -78,13 +58,7 @@ A tool that allows querying system functions and controlling feature flags on Ap
 </picture>
 </a>
 
-</details>
-
-### [-> <u>Browse all projects...</u>](https://github.com/xezrunner/xezrunner/tree/main/Projects)
-
-
-<details open>
-<summary><b>Smaller projects</b></summary>
+## Smaller projects
 
 ### [Git `nocheckin` pre-commit hook](https://gist.github.com/xezrunner/e6dbafcc21fcbc976c93bdee0f371a08)
 
@@ -99,4 +73,4 @@ A pre-commit hook for Git that rejects commiting staged files containing a speci
 </picture>
 </a>
 
-</details>
+### [> <u>Browse all projects...</u>](https://github.com/xezrunner/xezrunner/tree/main/Projects)
