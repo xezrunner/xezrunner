@@ -11,11 +11,13 @@ I primarily work in C# (XAML, Unity, S&box) and Swift & SwiftUI.
 
 # Projects
 
+<!-- 
 ### [Rhythmic](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
 
 A work-in-progress re-creation of Amplitude 2016 by Harmonix in the Unity game engine
 
 [![](Assets/Rhythmic-hero.png)](https://github.com/xezrunner/xezrunner/blob/main/Projects/Rhythmic.md)
+-->
 
 <!-- 
 ### [XeZrunner.UI](https://github.com/xezrunner/xezrunner/blob/main/Projects/WebcamViewerX.md)
